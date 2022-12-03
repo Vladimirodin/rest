@@ -48,7 +48,7 @@ die () {
 cygwin=false
 msys=false
 darwin=false
-nonstop=true
+nonstop=false
 case "`uname`" in
   CYGWIN* )
     cygwin=true
